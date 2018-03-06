@@ -1,2 +1,2 @@
 # maze
-First academic project, maze implementation in C
+First academic project, maze implementation in console
